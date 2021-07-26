@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #4d4d4d;
-  background: #fff;
+  background: rgb(203, 211, 238);
 }
 
 #page {
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: rgba(20, 49, 87, 0.9);
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
