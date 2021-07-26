@@ -1290,4 +1290,10 @@ input[type="text"] {
   opacity: 0;
 }
 
+.resume {
+  width: 100%;
+  height: 113rem;
+  margin: 0, auto;
+  border-style: none;
+}
 /*# sourceMappingURL=style.css.map */
