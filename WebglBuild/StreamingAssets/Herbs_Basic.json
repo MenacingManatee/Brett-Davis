@@ -1,0 +1,58 @@
+{
+  "herbs": [
+    {
+      "herbName": "Poorshroom",
+      "maxGathers": 1,
+      "currGathers": 0,
+      "diceRule": 6,
+      "diceHint": 1,
+      "description": "This mushroom is extremely common, and only technically qualifies as a magical herb. Its only defining feature is its widespread use by alchemists with no other options.",
+      "id": 0
+    },
+    {
+      "herbName": "Venom Blossom",
+      "maxGathers": 6,
+      "currGathers": 0,
+      "diceRule": 4,
+      "diceHint": 4,
+      "description": "A small flower with 6 petals, this herb is not very potent but each petal is a useable ingredient",
+      "id": 1
+    },
+    {
+      "herbName": "Cinder Creeper",
+      "maxGathers": 1,
+      "currGathers": 0,
+      "diceRule": 3,
+      "diceHint": 3,
+      "description": "This herb, resembling a small orange root usually seen spread across rock near geothermal vents or volcanoes, is especially potent, however it rarely survives after a single refinement.",
+      "id": 2
+    },
+    {
+      "herbName": "Oxo Spore",
+      "maxGathers": 3,
+      "currGathers": 0,
+      "diceRule": 4,
+      "diceHint": 6,
+      "description": "The spores of the common brown mushroom known as Oxo which is seen in forests everywhere. The spore is not particularly potent, but its ubiquity makes it a popular herb for alchemy.",
+      "id": 3
+    },
+    {
+      "herbName": "Irongrain",
+      "maxGathers": 2,
+      "currGathers": 0,
+      "diceRule": 1,
+      "diceHint": -1,
+      "description": "Found commonly in full sunlight, it is a popular ingredient in potions used against the fae. Side effects of consumption by humans include sneezing, watery eyes, and heavy metal poisoning.",
+      "id": 4
+    },
+    {
+      "herbName": "Apprenticebane",
+      "maxGathers": 4,
+      "currGathers": 0,
+      "diceRule": 2,
+      "diceHint": -1,
+      "description": "This peculiar, fast-growing flower only grows in organic material with high ambient magic that has been left in the sun. It gets its name from the tendency to appear on the spellbooks of apprentice magic users napping in the sun, often heavily damaging the tomes.",
+      "id": 5
+    }
+  ]
+}
